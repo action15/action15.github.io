@@ -36,7 +36,7 @@ body {
 	width:100%;
 	Xbackground:url("leftcolor_bg.png") repeat-y top left;
 }
-#header h1 {margin-bottom: 3px;}
+#header h1 {font-size: large; margin-bottom: 3px;}
 #header {
     height: 120px;
     xbackground:#680148;
