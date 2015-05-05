@@ -10,7 +10,7 @@ body {
 	padding:0;
 	font-family: 'Open Sans',Arial, Verdana,sans-serif;
 	xxscolor:#666;
-	font-size: small;
+	
 	}
 #header a {
 	color:#FFF;
@@ -22,6 +22,7 @@ body {
 	color:#FF;
 	}
 #wrapper1 {
+    font-size: small;
 	position:relative;
 	text-align:left;
 	width:100%;
