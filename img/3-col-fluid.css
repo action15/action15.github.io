@@ -4,8 +4,7 @@ html,body {
     height:100%;
 }
 body {
-    background:#FFF; ##9343B9;
-    
+    background:#FFF; 
 	text-align:center;
 	margin:20px;
 	padding:0;
@@ -38,7 +37,7 @@ body {
 #header h1 {margin-bottom: 3px;}
 #header {
     height: 120px;
-    background:#680148;
+    xbackground:#680148;
     background-image: url(backstars.png);
 	padding:10px;
 	margin:0;
@@ -104,7 +103,7 @@ body {
 #footer {
 	position:relative;
 	top:1px;
-	background:#7DB4B5;
+	xbackground:#7DB4B5;
 	width:100%;
 	clear:both;
 	margin:0;
