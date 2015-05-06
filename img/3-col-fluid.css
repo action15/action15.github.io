@@ -4,15 +4,17 @@ html,body {
     margin:0px; padding:0px;
     height:100%;
     
+    
 }
 body {
    
-    background:#CCC; 
+    background:#DDD; 
 	text-align:center;
 	xmargin:20px;
 	padding:0;
 	font-family: 'Open Sans',Arial, Verdana,sans-serif;
 	xxscolor:#666;
+	cbackground: url(dark-main_background2.jpg);
 	
 }
  
