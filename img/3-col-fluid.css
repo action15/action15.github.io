@@ -2,9 +2,11 @@
 
 html,body {
     height:100%;
-    width: 1000px;
+    
 }
-body {
+body {	width: 900px; 
+	margin: 0 auto;
+   
     background:#FFF; 
 	text-align:center;
 	margin:20px;
@@ -12,7 +14,9 @@ body {
 	font-family: 'Open Sans',Arial, Verdana,sans-serif;
 	xxscolor:#666;
 	
-	}
+}
+ 
+
 #header a {
 	color:#FFF;
 	text-decoration:none;
@@ -23,6 +27,7 @@ body {
 	color:#FF;
 	}
 #wrapper1 {
+    
     xwidth:1200px;
     font-size: small;
 	position:relative;
@@ -38,7 +43,7 @@ body {
 	Xbackground:url("leftcolor_bg.png") repeat-y top left;
 }
 #header {
-    height: 120px;
+    height: 100px;
     xbackground:#680148;
     background-image: url(backstars.png);
 	padding:10px;
@@ -47,7 +52,7 @@ body {
 	color:#FFF;
 	}
 #header h1 {
-	font-size:250%;
+    margin-top: 0px; font-size:250%;
 	}
 #header a:hover {
 	color:#7A2875;
