@@ -11,6 +11,9 @@ html,body {
     
     
 }
+twitter-timeline {
+    display:none
+}
 body {
    
     background: #AAA; 
